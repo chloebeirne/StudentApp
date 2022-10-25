@@ -54,4 +54,3 @@ public class ShapeApp {
         System.out.println("You entered; " +stuInfo3.getCourse());
     }
 }
-
